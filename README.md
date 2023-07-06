@@ -1,46 +1,49 @@
-### Hi there, i'm FastChen! 👋
+<h3><img height="64" src="/img/bash.svg" alt="CSharp" title="CSharp"/> _ <span>你好(Hi), i'm FastChen! 👋</span></h3>
 
-### 我的组织 / My Organizations
+<h1>About Me</h1>
 
-[NullCraftOrg](https://github.com/NullCraftOrg)
+<h3>Programming language & Frameworks:</h3>
 
-### Try to use
+<code><img height="24" src="/img/language/csharp.svg" alt="CSharp" title="CSharp"/></code>
+<code><img height="24" src="/img/language/javascript.svg" alt="Javascript" title="Javascript"/></code>
+<code><img height="24" src="/img/language/php.svg" alt="PHP" title="PHP"/></code>
+<code><img height="24" src="/img/language/html5.svg" alt="HTML5" title="HTML5"/></code>
+<code><img height="24" src="/img/language/css3.svg" alt="CSS3" title="CSS3"/></code>
 
-![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=C%20Sharp)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+<h3>Development Environment:</h3>
 
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<code><img height="24" src="/img/environment/nginx.svg" alt="Nginx" title="Nginx"/></code>
+<code><img height="24" src="/img/environment/mysql.svg" alt="MySQL" title="MySQL"/></code>
+<code><img height="24" src="/img/language/php.svg" alt="PHP" title="PHP"/></code>
+<code><img height="24" src="/img/environment/vuejs.svg" alt="Vuejs" title="Vuejs"/></code>
+<code><img height="24" src="/img/environment/bootstrap.svg" alt="Bootstrap" title="Bootstrap"/></code>
 
-### 🤚 NICE ✋
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+<h3>Tools:</h3>
 
-### Find me on
+<code><img height="24" src="/img/tools/visualstudio.svg" alt="Visual Studio" title="Visual Studio"/></code>
+<code><img height="24" src="/img/tools/vscode.svg" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+<code><img height="24" src="/img/tools/figma.svg" alt="Figma" title="Figma"/></code>
 
-[![FastChen's Blog](https://img.shields.io/badge/-FastChen's%20Blog-4794FF?style=flat-square&logo=wordpress&logoColor=white)](https://fastchen.com)
+<h3>My Device:</h3>
 
+<code><img height="24" src="/img/device/windows.svg" alt="Windows" title="Windows"/></code>
+<code><img height="24" src="/img/device/linux.svg" alt="Linux" title="Linux"/></code>
+<code><img height="24" src="/img/device/debian.svg" alt="Debian" title="Debian"/></code>
+<code><img height="24" src="/img/device/apple.svg" alt="Apple" title="Apple"/></code>
+<code><img height="24" src="/img/device/raspberrypi.svg" alt="RaspberryPi" title="RaspberryPi"/></code>
+<code><img height="24" src="/img/device/nintendoswitch.svg" alt="Nintendo Switch" title="Nintendo Switch"/></code>
+<code><img height="24" src="/img/device/nintendo3ds.svg" alt="Nintendo 3DS" title="Nintendo 3DS"/></code>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FastChen" alt="FastChen's GitHub stats" />
+<h3>Find me on:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FastChen&layout=compact)
+<code><a href="https://fastchen.com"><img height="24" src="/img/hexo.svg" alt="FastChen's Blog" title="FastChen's Blog"/></a></code>
 
-<!--
-**FastChen/FastChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Organizations:</h3>
 
-Here are some ideas to get you started:
+<a href="https://github.com/NullCraftOrg">@NullCraftOrg</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>My Stats:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=FastChen" alt="FastChen's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FastChen&layout=compact" />
