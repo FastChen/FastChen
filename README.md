@@ -1,4 +1,4 @@
-<h3><img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> _ <span>你好(Hi), i'm FastChen! 👋</span></h3>
+<h3><img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> _ <span>你好(Hi), i'm FastChen(快辰)! 👋</span></h3>
 
 <h1>👉 About Me</h1>
 
