@@ -4,8 +4,7 @@
 
 ### "人类语言(Human language)"
 
-<img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-100%25-green" title="中文解锁进度100%">
-<img src="https://img.shields.io/badge/English-50%25-blue" title="English解锁进度50%">
+<img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-100%25-green" title="中文解锁进度100%"> <img src="https://img.shields.io/badge/English-50%25-blue" title="English解锁进度50%">
 
 ### "机器语言(Machine language)"
 
